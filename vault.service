@@ -12,7 +12,6 @@ User=vault
 Group=vault
 ProtectSystem=full
 ProtectHome=read-only
-PrivateTmp=yes
 PrivateDevices=yes
 SecureBits=keep-caps
 AmbientCapabilities=CAP_IPC_LOCK
