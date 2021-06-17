@@ -17,7 +17,7 @@ storage "raft" {
 
 api_addr = "http://10.0.1.160:8200"
 
-cluster_addr = "http://10.0.1.160.100:8201"
+cluster_addr = "http://10.0.1.160:8201"
 EOF
 sudo mkdir /etc/vault.d
 sudo cp vault-server.hcl /etc/vault.d/vault.hcl
