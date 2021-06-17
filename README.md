@@ -4,7 +4,7 @@
 - chmod +x sc.sh
 - check vault service is running
 
-systemctl status vault.service
+`systemctl status vault.service`
 
 Output: 
 
