@@ -1,6 +1,9 @@
 # How to use this repo
 
 - copy sc.sh
+
+`curl -o ~/sc.sh https://raw.githubusercontent.com/catalinasmeureanu/vaultservice/main/sc.sh`
+
 - chmod +x sc.sh
 - check vault service is running
 
